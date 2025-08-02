@@ -4,10 +4,10 @@ Vrinda Store Sales Dashboard 2024
  
 ### INTRODUCTION:
 Developed an interactive Excel dashboard for Vrinda Store to monitor sales trends, product performance, and monthly revenue.
- Utilized tools like: #
- •Pivot tables
-•Slicers 
-•Conditional formatting, and formulas to create a visually intuitive and data-driven report.
+ Utilized tools like: 
+ - Pivot tables
+- Slicers 
+- Conditional formatting, and formulas to create a visually intuitive and data-driven report.
 
 ### OBJECTIVE:
 Vrinda Store wants to analyze annual sales of their store for 2024. So that ,they can understand their customers behaviour and grow up sales in 2025
