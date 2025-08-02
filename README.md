@@ -17,6 +17,7 @@ Vrinda Store wants to analyze annual sales of their store for 2024. So that ,the
 •Slow-moving items
 •Top states contributing to the sales •Channels used to book max orders
 •Age groupwise sales status
+### Dataset Used:
 
 ### TOOLS and SKILLS Involved:
  Utilized tools like Pivot Tables, slicers, conditional formatting, and advanced formulas to create a visually intuitive and data-driven report 
