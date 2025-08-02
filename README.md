@@ -29,6 +29,9 @@ Key skills:
 •Channel vs no. of orders
 •Order status
 •Age groupwise order 
+###Dashboard Created:
+<img width="1335" height="505" alt="Screenshot 2025-07-31 201801" src="https://github.com/user-attachments/assets/e566b235-1f81-46c6-a342-822ff094a3c1" />
+
 
 ### INSIGHTS:
 • Women are more likely to buy compared to man(~65%) 
