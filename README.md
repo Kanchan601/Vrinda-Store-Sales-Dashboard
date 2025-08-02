@@ -10,6 +10,7 @@ Developed an interactive Excel dashboard for Vrinda Store to monitor sales trend
 •Conditional formatting, and formulas to create a visually intuitive and data-driven report.
 
 ### OBJECTIVE:
+Vrinda Store wants to analyze annual sales of their store for 2024. So that ,they can understand their customers behaviour and grow up sales in 2025
 •It helps to highlight-
 •Top performing products
 •Low-stock 
