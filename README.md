@@ -26,3 +26,14 @@ Key skills:
 ## KPIs:
  •Total sales vs Total no. of Orders •Highest selling Category 
 •Channel vs no. of orders
+•Order status
+•Age groupwise order 
+
+## INSIGHTS:
+• Women are more likely to buy compared to man(~65%) 
+•Maharashtra, Karnataka and Uttar pradesh are top 3 states (~35%) •Amazon, Flipkart and Myntra are max contributing in sales(~80%) 
+•Adult age group(30-49yrs) is maximum contributing
+
+## FINAL CONCLUSION: 
+•Need to target Women of age group (30-49yrs) in Maharashtra, Karnataka and Uttar Pradesh
+•Show adds , provide coupons on Amazon, Flipkart and Myntra.
